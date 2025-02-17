@@ -1,0 +1,25 @@
+# Web Framework
+Flask==2.0.1  # For building the web application
+
+# Database
+Flask-SQLAlchemy==2.5.1  # ORM for database interactions
+Redis==3.5.3  # Redis client for Python
+
+# Celery
+Celery==5.1.2  # For background task processing
+
+# API Requests
+requests==2.26.0  # For making HTTP requests to external APIs
+
+# Data Validation
+pydantic==1.8.2  # For data validation and settings management
+
+# Security
+cryptography==3.4.7  # For encryption and security features
+
+# Testing
+pytest==6.2.5  # For running tests
+pytest-cov==2.12.1  # For test coverage reporting
+
+# Documentation
+Sphinx==4.2.0  # For generating project documentation
